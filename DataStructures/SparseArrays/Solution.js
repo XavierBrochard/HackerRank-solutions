@@ -7,6 +7,5 @@ function matchingStrings(strings, queries) {
         map[q+i] = map[q+i] || 0; 
         if(q === s) map[q+i]++;
     }))
-    console.log(map)
     return Object.values(map);
 }
