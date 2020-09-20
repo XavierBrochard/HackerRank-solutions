@@ -16,4 +16,4 @@
 # Data Structures
 |Category|Challenge|Difficulty|Score|Solution|
 |:---:|:---:|:---:|:---:|:---:|
-| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 0 | [Solution.js](DataStructures/SparseArrays/Solution.js) |
+| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.js](DataStructures/SparseArrays/Solution.js) |
