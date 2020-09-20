@@ -6,6 +6,6 @@
 </p>
 
 # Interview Prepartion Kit
-|Category|Challenge|Difficulty|Points|Solution|
+|Category|Challenge|Difficulty|Score|Solution|
 |:---:|:---:|:---:|:---:|:---:|
-| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Easy | [Solution.js](InterviewPreparationKit/2DArray-DS/Solution.js) |
+| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Easy | 15 | [Solution.js](InterviewPreparationKit/2DArray-DS/Solution.js) |
