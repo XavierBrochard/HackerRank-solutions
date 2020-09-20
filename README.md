@@ -12,3 +12,8 @@
 | Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Easy | 20 | [Solution.js](InterviewPreparationKit/Arrays:LeftRotation/Solution.js) |
 | Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Medium | 40 | [Solution.js](InterviewPreparationKit/NewYearChaos/Solution.js) |
 | Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Medium | 40 | [Solution.js](InterviewPreparationKit/MinimumSwaps2/Solution.js) |
+
+# Data Structures
+|Category|Challenge|Difficulty|Score|Solution|
+|:---:|:---:|:---:|:---:|:---:|
+| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 0 | [Solution.js](DataStructures/SparseArrays/Solution.js) |
