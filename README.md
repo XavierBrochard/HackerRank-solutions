@@ -17,6 +17,7 @@
 |Category|Challenge|Difficulty|Score|Solution|
 |:---:|:---:|:---:|:---:|:---:|
 | Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | 10 | [Solution.js](Algorithms/Implementation/SalesbyMatch/Solution.js) |
+| Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy | 15 | [Solution.js](Algorithms/Implementation/CountingValleys/Solution.js) |
 
 
 
