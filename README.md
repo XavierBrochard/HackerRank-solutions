@@ -23,5 +23,5 @@
 # Data Structures
 |Category|Challenge|Difficulty|Score|Solution|
 |:---:|:---:|:---:|:---:|:---:|
-| Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)| Hard | 24/60 | [Solution.js](DataStructures/ArrayManipulation/Solution.js) |
-| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.js](DataStructures/SparseArrays/Solution.js) |
+| Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)| Hard | 24/60 | [Solution.js](DataStructures/Arrays/ArrayManipulation/Solution.js) |
+| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.js](DataStructures/Arrays/SparseArrays/Solution.js) |
