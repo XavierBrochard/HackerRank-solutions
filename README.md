@@ -18,8 +18,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | 10 | [Solution.js](Algorithms/Implementation/SalesbyMatch/Solution.js) |
 | Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy | 15 | [Solution.js](Algorithms/Implementation/CountingValleys/Solution.js) |
-
-
+| Implementation | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| Easy | 20 | [Solution.js](Algorithms/Implementation/JumpingOnTheClouds/Solution.js) |
 
 # Data Structures
 |Category|Challenge|Difficulty|Score|Solution|
