@@ -13,6 +13,12 @@
 | Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Medium | 40 | [Solution.js](InterviewPreparationKit/MinimumSwaps2/Solution.js) |
 | Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)| Medium | 40 | [Solution.js](InterviewPreparationKit/NewYearChaos/Solution.js) |
 
+# Algorithms
+|Category|Challenge|Difficulty|Score|Solution|
+|:---:|:---:|:---:|:---:|:---:|
+| Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | 10 | [Solution.js](Algorithms/Implementation/SalesbyMatch/Solution.js) |
+
+
 
 # Data Structures
 |Category|Challenge|Difficulty|Score|Solution|
