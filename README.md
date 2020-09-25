@@ -20,8 +20,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)| Hard | 24/60 | [Solution.js](DataStructures/Arrays/ArrayManipulation/Solution.js) |
 | Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.js](DataStructures/Arrays/SparseArrays/Solution.js) |
-| Trees | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)| Medium | 10 | [Solution.js](DataStructures/Trees/Tree:PreorderTraversal/Solution.java) |
-| Trees | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| Medium | 10 | [Solution.js](DataStructures/Trees/Tree:PostorderTraversal/Solution.java) |
+| Trees | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)| Easy | 10 | [Solution.js](DataStructures/Trees/Tree:PreorderTraversal/Solution.java) |
+| Trees | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| Easy | 10 | [Solution.js](DataStructures/Trees/Tree:PostorderTraversal/Solution.java) |
 
 # Interview Prepartion Kit
 |Category|Challenge|Difficulty|Score|Solution|
