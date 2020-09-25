@@ -19,10 +19,11 @@
 |Category|Challenge|Difficulty|Score|Solution|
 |:---:|:---:|:---:|:---:|:---:|
 | Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)| Hard | 24/60 | [Solution.js](DataStructures/Arrays/ArrayManipulation/Solution.js) |
-| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.js](DataStructures/Arrays/SparseArrays/Solution.js) |
-| Trees | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)| Easy | 10 | [Solution.js](DataStructures/Trees/Tree:PreorderTraversal/Solution.java) |
-| Trees | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| Easy | 10 | [Solution.js](DataStructures/Trees/Tree:PostorderTraversal/Solution.java) |
-| Trees | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)| Easy | 10 | [Solution.js](DataStructures/Trees/Tree:InorderTraversal/Solution.java) |
+| Arrays | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| Medium | 25 | [Solution.j](DataStructures/Arrays/SparseArrays/Solution.js) |
+| Trees | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)| Easy | 10 | [Solution.java](DataStructures/Trees/Tree:PreorderTraversal/Solution.java) |
+| Trees | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)| Easy | 10 | [Solution.java](DataStructures/Trees/Tree:PostorderTraversal/Solution.java) |
+| Trees | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)| Easy | 10 | [Solution.java](DataStructures/Trees/Tree:InorderTraversal/Solution.java) |
+| Trees | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)| Easy | 10 | [Solution.java](DataStructures/Trees/Tree:HeightOfABinaryTree/Solution.java) |
 
 # Interview Prepartion Kit
 |Category|Challenge|Difficulty|Score|Solution|
