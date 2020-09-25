@@ -13,6 +13,7 @@
 | Implementation | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| Easy | 20 | [Solution.js](Algorithms/Implementation/JumpingOnTheClouds/Solution.js) |
 | Implementation | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| Easy | 20 | [Solution.js](Algorithms/Implementation/RepeatedString/Solution.js) |
 | Strings | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)| Easy | 25 | [Solution.js](Algorithms/Strings/TwoStrings/Solution.js) |
+| Strings | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)| Medium | 50 | [Solution.js](Algorithms/Strings/SherlockAndAnagrams/Solution.js) |
 
 # Data Structures
 |Category|Challenge|Difficulty|Score|Solution|
