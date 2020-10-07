@@ -14,7 +14,7 @@
   },
   "overrides": [
     {
-      "files": ["*.js", "*.spec.js"],
+      "files": ["*.js"],
       "rules": {
         "no-unused-vars": "off"
       }
