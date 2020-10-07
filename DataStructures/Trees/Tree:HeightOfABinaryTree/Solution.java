@@ -13,7 +13,7 @@ public static Node postOrder(Node root) {
         postOrder(cur.left);
     }
     if(cur.right != null) {
-        postOrder(cur.right);
+        postOrder(cur.right); 
     }
     return cur;
 }

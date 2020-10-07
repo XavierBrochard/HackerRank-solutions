@@ -1,0 +1,30 @@
+{
+  "name": "hackerrank-solutions",
+  "version": "1.0.0",
+  "description": "My solutions to HackerRank problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierBrochard/HackerRank-solutions.git"
+  },
+  "author": "Xavier-Alexandre Brochard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XavierBrochard/HackerRank-solutions/issues"
+  },
+  "homepage": "https://github.com/XavierBrochard/HackerRank-solutions#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^2.1.2"
+  }
+}

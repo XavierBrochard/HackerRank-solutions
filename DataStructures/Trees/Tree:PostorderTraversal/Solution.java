@@ -10,7 +10,7 @@ class Node {
 }
 
 */
-
+ 
 public static void postOrder(Node root) {
     Node cur = root;
     if(cur.left != null) {
@@ -21,3 +21,4 @@ public static void postOrder(Node root) {
     }
     System.out.print(cur.data + " ");
 }
+ 
